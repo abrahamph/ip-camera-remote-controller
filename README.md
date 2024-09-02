@@ -1,2 +1,6 @@
 # ip-camera-remote-controller
-ip-camera-remote-controller
+
+## Buttons
+1. Move around the camera
+2. Zoom IN/OUT
+
